@@ -1,0 +1,4 @@
+* further cleanup.
+* enhance mouse detection.
+* implement proper makefiles.
+  * auto detect maximum number of IRQs, DMA and IO addresses.
