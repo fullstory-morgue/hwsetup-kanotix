@@ -1,3 +1,9 @@
+hwsetup-kanotix (1.1.1) unstable; urgency=low
+
+  * compile against kudzu-kanotix 1.2.9.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  2 Oct 2005 17:52:07 +0200
+
 hwsetup-kanotix (1.1) unstable; urgency=low
 
   * synchronize withn Klaus Knopper's changes for hwsetup 1.1:
