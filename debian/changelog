@@ -1,3 +1,9 @@
+hwsetup-kanotix (1.1.2) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat,  8 Oct 2005 17:26:34 +0200
+
 hwsetup-kanotix (1.1.1) unstable; urgency=low
 
   * compile against kudzu-kanotix 1.2.9.
