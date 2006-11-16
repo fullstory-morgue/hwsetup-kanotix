@@ -1,6 +1,7 @@
-hwsetup-kanotix (1.1.2) UNRELEASED; urgency=low
+hwsetup-kanotix (1.1.2) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHANED
   * fix dependencies to ensure using compatible (old) kudzu/ hwdata versions.
   * remove knoppix virtual packages.
   * remove cdbs auto-update feature.
